@@ -1,6 +1,7 @@
 # Crypto-compare
 
 A Full Stack app which uses Node.js, Express.js, React
+A RESTful API is made which will fetch and send back the respnse to the client
 
 ## Link
 
